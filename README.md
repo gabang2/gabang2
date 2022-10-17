@@ -1,4 +1,4 @@
-### Hi there👋 I'm Gayeong Kim, a traveler traveling to Data. 
+### Hi there👋 I'm Gayeong Kim, a traveler traveling to Data.  
 
 - 🎓 College Student - Industrial ICT Technology
 - 💻 Learning Data Analysis / Web full Stack / Cloud
