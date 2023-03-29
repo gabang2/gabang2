@@ -1,8 +1,4 @@
-### Hi there👋 I'm Gayeong Kim, a traveler traveling to Data.
-
-- 🎓 College Student - Industrial ICT Technology
-- 💻 Learning Data Analysis / Web full Stack / Cloud
-- 👩🏼‍🤝‍👩🏻 Likes to communicate and develop with someone
-
-[Tistory Blog](https://traveler-gabang2.tistory.com/) | 
-[velog](https://velog.io/@gabang2)
+# 김가영 Travel to Data
+- [velog 블로그](https://velog.io/@gabang2)
+- 목표 : 백엔드에 강한 데이터 엔지니어
+- 현재 학습 중 : 알고리즘 / Linux / Scala
