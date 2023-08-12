@@ -1,5 +1,5 @@
 # 김가영
-- 취준생
+- 취준생 
 - [velog 블로그](https://velog.io/@gabang2)
 
 🧑‍Group Project👩
