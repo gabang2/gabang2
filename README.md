@@ -1,5 +1,4 @@
 # 김가영
-- 취준생
 - 포트폴리오 : [김가영 | 꾸준히 성장하는 개발자](https://www.notion.so/gabang2/000b8b8aa91d477b91358750046cbb42)
 - [velog 블로그](https://velog.io/@gabang2)
 
